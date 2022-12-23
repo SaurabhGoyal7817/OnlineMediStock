@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.containermy{
+	width:940px;
+	margin:50px auto 0;
+	background-color:#fff;
+	padding:15px;
+	border-radius:5px;
+	display:grid;
+	grid-template-columns:1fr 1fr;
+}
+
+.descriptionmy{
+	margin-right:50px;
+}
+.descriptionmy h1{
+	margin:0px 0 10px 0;
+	font-weight:bold;
+	
+}
+
+.descriptionmy p{
+	font-size:15px;
+}
+
+.descriptionmy span{
+	margin-top:15px;
+	display:inline-block;
+	font-weight:bold;
+	font-size:30px;
+	color:#353535;
+	
+}
+.xzoom-tumbs a{
+	text-decoration:none;
+}
+.xzoom-tumbs img{
+	display:inline-block;
+	height:80px;
+	width:78.5px;
+	border:1px solid #ccc;
+	
+}
+
+.hovera{
+	color:black;
+}
+.hovera:hover{
+	color:blue;
+}
